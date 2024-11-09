@@ -1,0 +1,4 @@
+Product Name,Price,Link
+Product Name 1,$100,http://localhost:8000/product1.html
+Product Name 2,$150,http://localhost:8000/product2.html
+Product Name 3,$200,http://localhost:8000/product3.html
